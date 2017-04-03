@@ -1,0 +1,17 @@
+﻿normalizacion
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 53 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	modified:   tv-script-generation/dlnd_tv_script_generation.ipynb
+#
+# Untracked files:
+#	tv-script-generation/.ipynb_checkpoints/
+#	tv-script-generation/__pycache__/
+#	tv-script-generation/preprocess.p
+#
+
