@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 intro-to-tensorflow/notMNIST.pickle
 *.zip
 embeddings/checkpoints/text8.ckpt.data-00000-of-00001
@@ -5,3 +6,12 @@ sentiment-rnn/checkpoints/sentiment.ckpt.data-00000-of-00001
 *.npy
 transfer-learning/flower_photos.tar.gz
 transfer-learning/flower_photos/
+=======
+.DS_Store
+
+# Ignore downloaded datasets
+embeddings/data/
+embeddings/text8.zip
+
+.ipynb_checkpoints/
+>>>>>>> refs/remotes/udacity/master
