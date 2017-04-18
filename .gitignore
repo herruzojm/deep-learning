@@ -15,3 +15,5 @@ embeddings/text8.zip
 
 .ipynb_checkpoints/
 >>>>>>> refs/remotes/udacity/master
+sentiment-network/reviews.txt
+tv-script-generation/save.data-00000-of-00001
